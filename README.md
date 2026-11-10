@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" alt="Swift Condenser Market Research & Business Analysis" width="100%" />
+
 # Swift_Condenser_Legacy_Analysis
 
 Mapping Maruti Suzuki sales to market contribution for a client.
